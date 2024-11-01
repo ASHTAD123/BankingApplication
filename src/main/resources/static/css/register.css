@@ -1,0 +1,28 @@
+label{
+    font-size: medium;
+  font-weight: bold;
+ }
+
+p{
+	color: red;
+}
+body{
+    background-image: url('background.jpg');
+}
+form{
+    color: rgb(27, 27, 24);
+    border-radius: 25px;
+    font-weight: bold;
+}
+form label{
+    font-weight: bold;
+}
+.submit{
+    margin-right: 20px;
+}
+.flex-container{
+	display:flex;
+	padding:20px;
+    justify-content: center;
+    align-items: center;
+    }

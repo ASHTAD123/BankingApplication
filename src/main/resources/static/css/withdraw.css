@@ -1,0 +1,21 @@
+body{
+    background-image: url("background.jpg");
+}
+form{
+   
+    border-radius: 25px;    
+}
+
+form label{
+    font-weight: bold;
+}
+.submit{
+    margin-right: 20px;
+}
+.btnContainer{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    }
